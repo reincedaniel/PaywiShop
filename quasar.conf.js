@@ -109,9 +109,9 @@ module.exports = function (/* ctx */) {
       workboxPluginMode: 'GenerateSW', // 'GenerateSW' or 'InjectManifest'
       workboxOptions: {}, // only for GenerateSW
       manifest: {
-        name: `Azulula App`,
-        short_name: `Azulula App`,
-        description: `Azulula`,
+        name: `Paywi-Shop App`,
+        short_name: `Paywi-Shop App`,
+        description: `Paywi-Shop`,
         display: 'standalone',
         orientation: 'portrait',
         background_color: '#ffffff',
@@ -176,7 +176,7 @@ module.exports = function (/* ctx */) {
       builder: {
         // https://www.electron.build/configuration/configuration
 
-        appId: 'azulula'
+        appId: 'paywishop'
       },
 
       // More info: https://quasar.dev/quasar-cli/developing-electron-apps/node-integration

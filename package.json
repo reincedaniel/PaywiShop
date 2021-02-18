@@ -1,8 +1,8 @@
 {
-  "name": "azulula",
+  "name": "paywishop",
   "version": "0.0.1",
-  "description": "Azulula",
-  "productName": "Azulula App",
+  "description": "PaywiShop",
+  "productName": "Paywi-Shop",
   "author": "Lourenço Daniel Sebastição Carlos",
   "private": true,
   "scripts": {
