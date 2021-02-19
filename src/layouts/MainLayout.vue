@@ -37,7 +37,7 @@
 
         :mini="!drawer || miniState"
         @click.capture="drawerClick"
-        content-class="bg-info q-ml-lg"
+        content-class="bg-warning q-ml-lg"
         
       >
           <q-list class="col text-white">
